@@ -2,13 +2,12 @@ import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAAnKJKqchq4Kk6wSsCFmEnk_eBx1p1Hgw",
-  authDomain: "weather-app-2c647.firebaseapp.com",
-  projectId: "weather-app-2c647",
-  storageBucket: "weather-app-2c647.appspot.com",
-  messagingSenderId: "427063323940",
-  appId: "1:427063323940:web:4350be6a830e4e866197b1",
-  measurementId: "G-FDB42MXM07",
+  apiKey: "AIzaSyD2Mmu7ppSqOTT-MkKnGLnb07kQmsM_HT4",
+  authDomain: "appweather-d0be8.firebaseapp.com",
+  projectId: "appweather-d0be8",
+  storageBucket: "appweather-d0be8.appspot.com",
+  messagingSenderId: "1020863117148",
+  appId: "1:1020863117148:web:c52bb40a31e928f6047399",
 };
 
 // // Initialize Firebase
