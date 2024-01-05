@@ -6,10 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start`
+### `TECH STACK  USED`
+TAILWIND CSS 
+JAVASCRIPT
+REACT JS
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
 ![image](https://github.com/cheshta0112/weather_app/assets/104692214/8f276ae5-6282-49b8-8df2-c03899f8e58f)
