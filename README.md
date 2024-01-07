@@ -8,8 +8,9 @@ In the project directory, you can run:
 
 ### `TECH STACK  USED`
 #### TAILWIND CSS ,
-####  JAVASCRIPT &
-####  REACT JS
+####  JAVASCRIPT ,
+####  REACT JS &
+####  Firebase
 
 
 
