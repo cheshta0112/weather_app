@@ -10,7 +10,7 @@ In the project directory, you can run:
 #### TAILWIND CSS ,
 ####  JAVASCRIPT ,
 ####  REACT JS &
-####  Firebase
+####  FIREBASE
 
 
 
